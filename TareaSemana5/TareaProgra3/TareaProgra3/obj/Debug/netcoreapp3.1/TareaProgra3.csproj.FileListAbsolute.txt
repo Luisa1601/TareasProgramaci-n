@@ -1,0 +1,13 @@
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.exe
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.deps.json
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.runtimeconfig.json
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.runtimeconfig.dev.json
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.dll
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\bin\Debug\netcoreapp3.1\TareaProgra3.pdb
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.csprojAssemblyReference.cache
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.AssemblyInfoInputs.cache
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.AssemblyInfo.cs
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.csproj.CoreCompileInputs.cache
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.dll
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.pdb
+C:\Users\17-X173\Desktop\EstadisticaII\TareaProgra3\TareaProgra3\obj\Debug\netcoreapp3.1\TareaProgra3.genruntimeconfig.cache
